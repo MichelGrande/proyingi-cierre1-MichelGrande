@@ -1,27 +1,19 @@
 ## Proyecto de Ingeniería I — Bitácora personal
 
-> Instrucción: sustituye todo lo que está entre corchetes por tu propio contenido y borra
-> todas las líneas que empiezan con "Instrucción:". Este archivo es el índice de tu
-> repositorio y sustituye la portada de la entrega.
 
-**Nombre:** [Tu nombre completo]
+**Nombre:** [Michel Grande Montalvo]
 **Carrera:** Ingeniería en Sistemas Computacionales
 **Materia:** Proyecto de Ingeniería I (LIIB2101) — Otoño 2026
 **Profesor:** Mtro. Rafael Pérez Aguirre
-**Equipo:** [Nombre o número de tu equipo]
+**Equipo:** [Michel Grande Montalvo]
 
 ---
 
 ## Sobre mí
 
-[De dos a cuatro líneas: de dónde eres, por qué elegiste Sistemas Computacionales y qué
-esperas construir en esta carrera.]
+[Yo vengo de Apizaco, Tlaxcala. No podría ser exacto si doy una sola razón del porque escogí como carrera  Ing en Sistemas, pero no podría dar varias, me parecio interesante y es algo en lo que me siento más Ad Hoc, es algo que siempre me ha interesado pero nunca lo he visto a gran detalle.]
 
 ## Contenido de este repositorio
-
-> Instrucción: si estás trabajando dentro de tu vault de Obsidian, puedes usar enlaces
-> internos con dobles corchetes, por ejemplo [[ideas-proyecto]]. Si estás trabajando
-> directamente en GitHub, deja los enlaces como están abajo.
 
 - [Ideas de proyecto](ideas-proyecto.md) — tres ideas de proyecto para la materia, con su análisis de viabilidad.
 - [Investigación](investigacion.md) — ejemplos que ya existen y fuentes consultadas.
@@ -30,24 +22,21 @@ esperas construir en esta carrera.]
 
 | Herramienta | ¿Para qué la uso? | ¿Ya la tengo funcionando? |
 |---|---|---|
-| Markdown | [ ] | [Sí / No / A medias] |
-| Obsidian | [ ] | [Sí / No / A medias] |
-| Git | [ ] | [Sí / No / A medias] |
-| GitHub | [ ] | [Sí / No / A medias] |
+| Markdown | [Markdown es la traducción directa de ".md", lo uso para poder darle estructura a la información que meto en cada documento o "Markdown" de mi repositorio en GitHub] | [A medias] |
+| Obsidian | [Obsidian lo suelo usar un poco más y lo puedo ver de una manera mas ordenada y mucho más digerible, no podria decir que la uso como mi herramienta directa de apuntes pero me sirve bastante ] | [A medias] |
+| Git | [Git lo uso como la base de mis repositorios y me sirve para trabajar en conjunto con otras personas o solo dependiendo mis necesidades y puedo crear y usarlo de muchas maneras ] | [Sí ] |
+| GitHub | [GitHub sirve más como la red social de los programadores, donde pudo ver trabajos de los demás y también puedo trabajar por mi cuenta,esto es mucho más como la plataforma a donde se sube todo, git sirve más como la base que se encuentra en mi disco duro y el mismo docuemnto y/o programa sube y está dentro de la base de datos de Github(no soy un experto pero intento usarlo)] | [Sí ] |
 
 ## Cómo voy en el curso
 
-- [x] [Algo que ya logré]
-- [ ] [Algo que todavía no me sale]
-- [ ] [Algo que quiero aprender en lo que queda del semestre]
+- [x] [Logré crear mi rpositorio por mi cuenta y con mucha practica, me gusta mucho aprender las cosas que me cuestan a la fuerza]
+- [ ] [Hacer todo con una fluidez mayor, creo que todavía a estoy a suficiente tiempo de aprender y mejorar pero me siento entuciasta de hacer todo lo que pueda cada vez mejor]
+- [ ] [No lo sé, todo lo nuevo que me pongan lo aprenderé, confío en el plan de estudios y en el proceso que se debe llevar]
 
 ---
 
 ## Declaración de uso de IA
 
-> Instrucción: obligatoria en los tres archivos. Si no usaste IA, escríbelo explícitamente.
 
-- **Herramienta utilizada:** [nombre y versión, o "No se utilizó IA generativa en esta entrega"]
-- **Qué le pedí:** [ ]
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ ]
+- **NO USE IA** 
 
