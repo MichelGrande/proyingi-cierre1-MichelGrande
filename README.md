@@ -1,17 +1,17 @@
 ## Proyecto de Ingeniería I — Bitácora personal
 
 
-**Nombre:** [Michel Grande Montalvo]
+**Nombre:** Michel Grande Montalvo
 **Carrera:** Ingeniería en Sistemas Computacionales
 **Materia:** Proyecto de Ingeniería I (LIIB2101) — Otoño 2026
 **Profesor:** Mtro. Rafael Pérez Aguirre
-**Equipo:** [Michel Grande Montalvo]
+**Equipo:** Michel Grande Montalvo
 
 ---
 
 ## Sobre mí
 
-[Yo vengo de Apizaco, Tlaxcala. No podría ser exacto si doy una sola razón del porque escogí como carrera  Ing en Sistemas, pero no podría dar varias, me parecio interesante y es algo en lo que me siento más Ad Hoc, es algo que siempre me ha interesado pero nunca lo he visto a gran detalle.]
+Me llamo Michel Grande Montalvo y vengo de Apizaco, Tlaxcala. No podría ser exacto si doy una sola razón del porque escogí como carrera  Ing en Sistemas, pero no podría dar varias, me parecio interesante y es algo en lo que me siento más Ad Hoc, es algo que siempre me ha interesado pero nunca lo he visto a gran detalle.
 
 ## Contenido de este repositorio
 
@@ -29,9 +29,12 @@
 
 ## Cómo voy en el curso
 
-- [x] [Logré crear mi rpositorio por mi cuenta y con mucha practica, me gusta mucho aprender las cosas que me cuestan a la fuerza]
-- [ ] [Hacer todo con una fluidez mayor, creo que todavía a estoy a suficiente tiempo de aprender y mejorar pero me siento entuciasta de hacer todo lo que pueda cada vez mejor]
-- [ ] [No lo sé, todo lo nuevo que me pongan lo aprenderé, confío en el plan de estudios y en el proceso que se debe llevar]
+### Algo que ya logré
+- [x] Logré crear mi rpositorio por mi cuenta y con mucha practica, me gusta mucho aprender las cosas que me cuestan a la fuerza
+### [Algo que todavía no me sale]
+- [x] Hacer todo con una fluidez mayor, creo que todavía a estoy a suficiente tiempo de aprender y mejorar pero me siento entuciasta de hacer todo lo que pueda cada vez mejor
+### [Algo que quiero aprender en lo que queda del semestre]
+- [x] No lo sé, todo lo nuevo que me pongan lo aprenderé, confío en el plan de estudios y en el proceso que se debe llevar
 
 ---
 
@@ -39,4 +42,5 @@
 
 
 - **NO USE IA** 
+
 
