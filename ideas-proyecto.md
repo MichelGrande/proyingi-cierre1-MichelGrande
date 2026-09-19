@@ -83,7 +83,7 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 **Idea elegida:** Sistema para saber si un salón está ocupado.
 
-**Por qué.** [Elegí esta idea porque parte de una situación que he observado y vivido dentro de la IBERO y tiene una utilidad directa para los estudiantes. El proyecto puede realizarse a una escala pequeña utilizando un sensor de movimiento, un microcontrolador y un indicador visual, por lo que creo que es posible construir un prototipo durante las clases. Además, la propuesta podría tener dos usos, ayudar a los estudiantes a identificar espacios disponibles y facilitar al personal de limpieza saber si un salón está vacío.
+**Por qué.** Elegí esta idea porque parte de una situación que he observado y vivido dentro de la IBERO y tiene una utilidad directa para los estudiantes. El proyecto puede realizarse a una escala pequeña utilizando un sensor de movimiento, un microcontrolador y un indicador visual, por lo que creo que es posible construir un prototipo durante las clases. Además, la propuesta podría tener dos usos, ayudar a los estudiantes a identificar espacios disponibles y facilitar al personal de limpieza saber si un salón está vacío.
 
 **Qué todavía no sé.** Todavía necesito comprobar si un sensor PIR es suficiente para determinar correctamente si un salón está ocupado, ya que una persona que permanezca quieta podría dejar de generar movimiento. También necesito investigar cuánto tiempo debería pasar sin detectar movimiento para considerar un salón como disponible y cómo evitar que el sistema marque como vacío un salón en el que todavía haya personas.
 
