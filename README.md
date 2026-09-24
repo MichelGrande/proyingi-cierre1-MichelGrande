@@ -22,18 +22,18 @@ Me llamo Michel Grande Montalvo y vengo de Apizaco, Tlaxcala. No podría ser exa
 
 | Herramienta | ¿Para qué la uso? | ¿Ya la tengo funcionando? |
 |---|---|---|
-| Markdown | [Markdown es la traducción directa de ".md", lo uso para poder darle estructura a la información que meto en cada documento o "Markdown" de mi repositorio en GitHub] | [A medias] |
-| Obsidian | [Obsidian lo suelo usar un poco más y lo puedo ver de una manera mas ordenada y mucho más digerible, no podria decir que la uso como mi herramienta directa de apuntes pero me sirve bastante ] | [A medias] |
-| Git | [Git lo uso como la base de mis repositorios y me sirve para trabajar en conjunto con otras personas o solo dependiendo mis necesidades y puedo crear y usarlo de muchas maneras ] | [Sí ] |
-| GitHub | [GitHub sirve más como la red social de los programadores, donde pudo ver trabajos de los demás y también puedo trabajar por mi cuenta,esto es mucho más como la plataforma a donde se sube todo, git sirve más como la base que se encuentra en mi disco duro y el mismo docuemnto y/o programa sube y está dentro de la base de datos de Github(no soy un experto pero intento usarlo)] | [Sí ] |
+| Markdown | Markdown es la traducción directa de ".md", lo uso para poder darle estructura a la información que meto en cada documento o "Markdown" de mi repositorio en GitHub | A medias |
+| Obsidian | Obsidian lo suelo usar un poco más y lo puedo ver de una manera mas ordenada y mucho más digerible, no podria decir que la uso como mi herramienta directa de apuntes pero me sirve bastante | A medias |
+| Git | Git lo uso como la base de mis repositorios y me sirve para trabajar en conjunto con otras personas o solo dependiendo mis necesidades y puedo crear y usarlo de muchas maneras  | Sí |
+| GitHub | GitHub sirve más como la red social de los programadores, donde pudo ver trabajos de los demás y también puedo trabajar por mi cuenta,esto es mucho más como la plataforma a donde se sube todo, git sirve más como la base que se encuentra en mi disco duro y el mismo docuemnto y/o programa sube y está dentro de la base de datos de Github(no soy un experto pero intento usarlo) | Sí |
 
 ## Cómo voy en el curso
 
 ### Algo que ya logré
 - [x] Logré crear mi rpositorio por mi cuenta y con mucha practica, me gusta mucho aprender las cosas que me cuestan a la fuerza
-### [Algo que todavía no me sale]
+### Algo que todavía no me sale
 - [x] Hacer todo con una fluidez mayor, creo que todavía a estoy a suficiente tiempo de aprender y mejorar pero me siento entuciasta de hacer todo lo que pueda cada vez mejor
-### [Algo que quiero aprender en lo que queda del semestre]
+### Algo que quiero aprender en lo que queda del semestre
 - [x] No lo sé, todo lo nuevo que me pongan lo aprenderé, confío en el plan de estudios y en el proceso que se debe llevar
 
 ---
@@ -42,5 +42,4 @@ Me llamo Michel Grande Montalvo y vengo de Apizaco, Tlaxcala. No podría ser exa
 
 
 - **NO USE IA** 
-
 
