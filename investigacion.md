@@ -6,7 +6,7 @@
 
 **Autor:** Michel Grande Montalvo
 **Fecha:** 19/09/26
-**Ideas analizadas:** ver [[ideas-proyecto]] o [ideas-proyecto.md](ideas-proyecto.md)
+**Ideas analizadas:** [ideas-proyecto.md](ideas-proyecto.md)
 
 ---
 
